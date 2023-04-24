@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=7FBBED&height=200&section=header&text=Welcome!&fontSize=50&fontColor=FFFFFF&fontAlign=79&rotate=13&fontAlignY=20&desc=Jongeun's%20GitHub💡&descSize=25&descAlign=80&descAlignY=40&animation=twinkling"/>
 
 
-## Hi there 👋
+## 👋 Hi there
 AI 개발자로 성장하고 싶은 이종은입니다✨      
 <br>
 
