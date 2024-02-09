@@ -6,7 +6,7 @@ AI 개발자로 성장하고 싶은 이종은입니다✨
 <br>
 
 ## 📫 Contact 
-<img src="https://img.shields.io/badge/belleb724@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/> <a href="https://bellv.tistory.com/"><img src="https://img.shields.io/badge/bell's Blog-000000?style=flat&logo=tistory&logoColor=white"/></a>   
+<img src="https://img.shields.io/badge/belleb724@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/> <a href="https://bellv.tistory.com/"><!--<img src="https://img.shields.io/badge/bell's Blog-000000?style=flat&logo=tistory&logoColor=white"/>--></a>   
 <br>
 
 ## 📚 Skills
