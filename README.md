@@ -14,6 +14,7 @@ AI 개발자로 성장하고 싶은 이종은입니다✨
 <br>
 
 ## 🎥 Growth diary
+- [x] `2024.02 ~ 2024.08` **KT** KT AIVLE SCHOOL
 - [x] `2023.04 ~ 2023.12` **중소벤처기업진흥공단** AI 기술인력 양성과정 3기(이어드림스쿨 3기)  📌 [프로젝트](https://github.com/soteria8-crack-detection/ADAC)
 - [x] `2022.10 ~ 2023.04` **서울경제진흥원 X 솔트룩스** 인공지능 SW 개발자 양성과정 2기  📌 [프로젝트](https://github.com/vbellv/SeSAC_Project)
 - [x] `2020.03 ~ 2022.02` 특성화고등학교 상업교사
